@@ -15,7 +15,7 @@
   </p>
 
   <h4>
-    <a href="https://www.GitHub.com/BlackTechX011/">GITHUB</a>
+    <a href="https://www.GitHub.com/BlackTechX011/">GITHUB</a
     <span> · </span>
     <
 
